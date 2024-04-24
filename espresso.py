@@ -15,7 +15,7 @@ st.markdown("<br>", unsafe_allow_html=True)
 # #add image
 st.image('IMG_8431.JPG',width = 600)
 
-st.markdown("<h2 style = 'color: #132043; text-align: center; font-family: montserrat '>Background Of Study</h2>", unsafe_allow_html = True)
+st.markdown("<h2 style = 'color:#53A8E63; text-align: center; font-family: montserrat '>Background Of Study</h2>", unsafe_allow_html = True)
 
 
 
