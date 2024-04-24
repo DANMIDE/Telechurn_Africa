@@ -6,8 +6,8 @@ warnings.filterwarnings('ignore')
 
 data = pd.read_csv('expresso_processed.csv')
 
-st.markdown("<h1 style = 'color: #FF204E; text-align: center; font-size: 60px; font-family:Helvetica'>TELECHURN AFRICA</h1>", unsafe_allow_html = True)
-st.markdown("<h4 style = 'margin: -30px; color: #A0153E; text-align: center; font-family: italic'>BUILT BY FAITH </h4>", unsafe_allow_html = True)
+st.markdown("<h1 style = 'color: #53A8E6; text-align: center; font-size: 60px; font-family:Helvetica'>TELECHURN AFRICA</h1>", unsafe_allow_html = True)
+st.markdown("<h4 style = 'margin: -30px; color: #53A8E6; text-align: center; font-family: italic'>BUILT BY FAITH </h4>", unsafe_allow_html = True)
 
 st.markdown("<br>", unsafe_allow_html=True)
 
