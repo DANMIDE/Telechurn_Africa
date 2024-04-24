@@ -27,7 +27,7 @@ st.markdown("<h2 style = 'color:#53A8E6; text-align: center; font-family: montse
 
 
 
-st.markdown("This study aims to develop an Espresso machine learning model to predict client churn probability in Mauritania and Senegal. Utilizing over 15 behavior variables, including usage patterns, demographics, and service preferences, the model will analyze historical data to identify key predictors of churn. By leveraging advanced machine learning algorithms such as decision trees and logistic regression, the model seeks to accurately forecast client churn and provide actionable insights for retention strategies. This research addresses the pressing need for telecommunications companies like Espresso to proactively mitigate churn and optimize customer retention efforts in dynamic African markets.")
+st.markdown("The objective of this model to develop an Espresso machine learning model to predict client churn probability in Mauritania and Senegal. Utilizing over 15 behavior variables, including usage patterns, demographics, and service preferences, the model will analyze historical data to identify key predictors of churn. By leveraging advanced machine learning algorithms such as decision trees and logistic regression, the model seeks to accurately forecast client churn and provide actionable insights for retention strategies. This research addresses the pressing need for telecommunications companies like Espresso to proactively mitigate churn and optimize customer retention efforts in dynamic African markets.")
 st.sidebar.image('IMG_8434.JPG', width = 300,caption = 'Welcome User')
 
 st.markdown("<br>", unsafe_allow_html=True)
